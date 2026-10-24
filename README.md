@@ -61,6 +61,4 @@ This is an educational prototype invoked through the Lambda test interface. Futu
 ## 8. Student Details
 
 - **Name:** CHRIS K EDISON
-- **Registration Number:** 24BAI0283
-- **Institution:** Vellore Institute of Technology
-- **Subject:** Cloud Architecture Design
+
